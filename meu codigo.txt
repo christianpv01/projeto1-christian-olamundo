@@ -1,3 +1,4 @@
 Olá, mundo!
 Meu nome é Christian,
-sou contador e agora estou aprendendo a utilizar o Git e Github
+Sou contador e agora estou aprendendo a utilizar o Git e GitHub
+Tenho 35 anos
