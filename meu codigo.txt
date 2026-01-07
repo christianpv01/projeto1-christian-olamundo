@@ -1,4 +1,6 @@
-Olá, mundo!
-Meu nome é Christian,
-Sou contador e agora estou aprendendo a utilizar o Git e GitHub
-Tenho 35 anos
+Olá, Mundo
+Me chamo Christian Peixoto Vieira
+Tenho 35 anos, sou contador
+E estou estudando logica de programacao
+No momento terminei as aulas do Professor Gustavo Guanabara
+Estou aprendendo Git e GitHub com o Dev Aprender
